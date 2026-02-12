@@ -10,4 +10,4 @@ CSS3
 JavaScript
 
 ## Enlace del proyecto 
-https://daniluescobarhue.github.io/salon-belleza-landing/
+https://daniluescobar-hue.github.io/salon-belleza-landing/
